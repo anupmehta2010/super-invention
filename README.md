@@ -1,4 +1,4 @@
 # super-invention
-Just starting with GitHub
+Just started with GitHub
 <br>
 Author - Anup10
